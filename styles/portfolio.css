@@ -133,3 +133,41 @@ border-radius: 5px;
     font-weight: 700;
     font-size: 18px;
 }
+.resume-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-top: 70px;
+margin-bottom: 70px;
+}
+.resume-sub-contain{
+    display: flex;
+    justify-content: space-between;
+}
+.education-and-experiace{
+    font-weight: 700;
+font-size: 30px;
+color: #474747;
+margin-bottom: 30px;
+margin-top: 20px;
+
+}
+.edu-ex-titiile{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+margin-bottom: 10px;
+}
+.istitute-company{
+    font-weight: 600;
+font-size: 20px;
+color: #757575;
+margin-bottom: 20px;
+}
+.istitute-company-p{
+    color: #757575;
+}
+.raju{
+    margin-left: -100px;
+}
