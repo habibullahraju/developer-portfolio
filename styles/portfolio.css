@@ -77,9 +77,9 @@ main {
   margin: 0 auto;
 }
 .main-about-section {
-    background-color: #fff8f3;
-    padding: 65px 150px;
-    margin-top: -74px;
+  background-color: #fff8f3;
+  padding: 65px 150px;
+  margin-top: -74px;
 }
 .about-title {
   font-weight: 700;
@@ -115,111 +115,106 @@ main {
   color: #181818;
   font-weight: 700;
   font-size: 35px;
-  
 }
 .skils-container {
   display: flex;
- 
 }
 .skill {
   margin: 15px;
   padding: 30px;
-  background: #FFFFFF;
-box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
-border-radius: 5px;
-
+  background: #ffffff;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
 }
 .skill-title {
-    margin-bottom: 8px;
-    margin-top: 10px;
-    font-weight: 700;
-    font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 18px;
 }
-.resume-title{
-    text-align: center;
-    font-weight: 700;
-font-size: 35px;
-color: #181818;
-margin-top: 70px;
-margin-bottom: 70px;
+.resume-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 35px;
+  color: #181818;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
-.resume-sub-contain{
-    display: flex;
-    justify-content: space-between;
-    gap: 50px;
+.resume-sub-contain {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
 }
-.education-and-experiace{
-    font-weight: 700;
-font-size: 30px;
-color: #474747;
-margin-bottom: 30px;
-margin-top: 20px;
-
+.education-and-experiace {
+  font-weight: 700;
+  font-size: 30px;
+  color: #474747;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
-.edu-ex-titiile{
-    font-weight: 700;
-font-size: 25px;
-color: #474747;
-margin-bottom: 10px;
+.edu-ex-titiile {
+  font-weight: 700;
+  font-size: 25px;
+  color: #474747;
+  margin-bottom: 10px;
 }
-.istitute-company{
-    font-weight: 600;
-font-size: 20px;
-color: #757575;
-margin-bottom: 20px;
+.istitute-company {
+  font-weight: 600;
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 20px;
 }
-.istitute-company-p{
-    color: #757575;
+.istitute-company-p {
+  color: #757575;
 }
-.raju{
-    margin-left: -120px;
-    margin-bottom: 70px;
-    margin-top: 50px;
+.raju {
+  margin-left: -120px;
+  margin-bottom: 70px;
+  margin-top: 50px;
 }
 
 /* contact section style */
 .contact {
-    display: flex;
-    gap: 100px;
-    justify-content: space-around;
-    background: #FFF8F3;
-    padding: 76px 117px;
+  display: flex;
+  gap: 100px;
+  justify-content: space-around;
+  background: #fff8f3;
+  padding: 76px 117px;
 }
-.contact-title{
-    color: #181818;
-    font-weight: 700;
-font-size: 35px;
-margin-bottom: 20px;
-
+.contact-title {
+  color: #181818;
+  font-weight: 700;
+  font-size: 35px;
+  margin-bottom: 20px;
 }
-.contact-description{
-    color: #474747;
-    font-weight: 400;
-font-size: 16px;
-line-height: 28px;
-margin-bottom: 30px;
+.contact-description {
+  color: #474747;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 30px;
 }
-.social a{
-    width: 120px;
-height: 24px;
-margin-right: 20px;
+.social a {
+  width: 120px;
+  height: 24px;
+  margin-right: 20px;
 }
-.contact-item .conbtn{
-    height: 35px;
-    width: 225px;
-    margin-bottom: 20px;
-    border: none;
+.contact-item .conbtn {
+  height: 35px;
+  width: 225px;
+  margin-bottom: 20px;
+  border: none;
 }
-.contact-item textarea{
-    border: none;
+.contact-item textarea {
+  border: none;
 }
 .btn-primary2 {
-    background-color: #fd6e0a;
-    height: 60px;
-    border: none;
-    width: 130px;
-    border-radius: 5px;
-    color: #ffffff;
-    font-size: 20px;
-    cursor: pointer;
-  }
+  background-color: #fd6e0a;
+  height: 60px;
+  border: none;
+  width: 130px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+}
