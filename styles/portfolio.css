@@ -66,6 +66,7 @@ nav li {
   margin-bottom: 30px;
 }
 .header {
+ 
   background: #fff8f3;
   background-image: url("../images/header_bg.png"),
     url("../images/developer.png");
@@ -80,6 +81,59 @@ main {
   background-color: #fff8f3;
   padding: 65px 150px;
   margin-top: -74px;
+}
+@media screen and (max-width:576px) {
+  .nav-title{
+    font-size: 30px;
+
+  }
+  .nav-title{
+    font-size: 30px;    
+    
+  }
+  .author-name {
+    font-weight: 430px;
+    font-size: 33px;
+    margin-bottom: 7px;
+}
+.bannar-sub-title {
+  font-weight: 600;
+  font-size: 19px;
+}
+.header {
+  background: #fff8f3;
+  background-image: url(../images/header_bg.png), url(../images/developer.png);
+  background-repeat: no-repeat;
+  background-position: bottom right, left;
+  width: 100%;
+  background-image: cover;
+}
+.bannarClassName{
+  flex-direction:row;
+}
+.btn-cv {
+  background-color: #fd6e0a;
+  height: 39px;
+  border: none;
+  width: 105px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+.bg-img{
+  display: none;
+}
+.bannar-contain{
+   margin-left: -92px;
+  padding-right: 60px;
+  
+
+}
+.main-about-section{
+  width: 100%;
+}
 }
 .about-title {
   font-weight: 700;
